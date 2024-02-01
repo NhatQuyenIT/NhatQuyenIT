@@ -27,6 +27,7 @@
 - [Đào Duy Tân](https://github.com/Coderfoolish).
 - [Đỗ Bá Sơn](https://github.com/dobason).
 - [Nguyễn Lê Quỳnh Hương](https://github.com/jasnamine).
+- [Nguyễn Tuấn Đăng](https://github.com/dangnt?tab=repositories).
 - [Trần Văn Hoàng](https://github.com/HoangTran0410).
 - [Salogo](https://github.com/salogo).
 
