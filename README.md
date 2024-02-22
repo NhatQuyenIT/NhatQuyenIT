@@ -3,7 +3,7 @@
 [![Gmail](https://img.shields.io/twitter/url?label=Gmail&logo=gmail&url=https://gmail.com)](mailto:lesongnhatquyen@gmail.com)
 <br />
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=NhatQuyenIT&show_icons=true&theme=react&border_color=61dafb&hide_border=true">
-- 👨‍🎓 Undergraduate student at [SGU](https://www.sgu.edu.vn/).
+- 👨‍🎓 Undergraduated student at [SGU](https://www.sgu.edu.vn/).
 - 📚 I'm pursuing AI, Fullstack development, etc... 
 - 😭 I'm looking for help with Statistics and Graphic Design.
 - 😍 Hobbies: I love Basketball 🏀 and Badminton 🏸.
