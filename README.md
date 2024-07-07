@@ -29,7 +29,9 @@
 - [Nguyễn Lê Quỳnh Hương](https://github.com/jasnamine).
 - [Nguyễn Tuấn Đăng](https://github.com/dangnt?tab=repositories).
 - [Trần Văn Hoàng](https://github.com/HoangTran0410).
-- [Salogo](https://github.com/salogo).
+- [Salogo](https://github.com/salogo?tab=repositories).
+- [SQCacademy](https://github.com/JavaWebOnline).
+- [Ngọc Quang](https://github.com/ngocquang95?tab=repositories).
 ### 🛠️Useful tools:
 - [Scoop](https://scoop.sh/#/)
 - [Chocolatey](https://chocolatey.org/install#psdsc)
