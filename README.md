@@ -32,11 +32,11 @@
 - [Salogo](https://github.com/salogo?tab=repositories).
 - [SQCacademy](https://github.com/JavaWebOnline).
 - [Ngọc Quang](https://github.com/ngocquang95?tab=repositories).
-- [Windows - Office](https://archive.org/details/@david_max915).
 ### 🛠️Useful tools:
 - [Scoop](https://scoop.sh/#/)
 - [Chocolatey](https://chocolatey.org/install#psdsc)
 ### 🌐Useful websites:
+- [Windows - Office](https://archive.org/details/@david_max915).
 - [Phong Vũ VN](https://phongvu.vn/)
 - [Máy Tính Phong Vũ](http://www.maytinhphongvu.com.vn/)
 - [Mua Bán Laptop Cũ](https://muabanlaptopcu.vn/)
