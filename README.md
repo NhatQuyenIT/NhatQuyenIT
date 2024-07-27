@@ -25,6 +25,7 @@
 
 ### 🧑‍🤝‍🧑Followings:
 - [Đào Duy Tân](https://github.com/Coderfoolish).
+- [Nguyễn Hoàng Tuấn](https://github.com/tun784).
 - [Đỗ Bá Sơn](https://github.com/dobason).
 - [Nguyễn Lê Quỳnh Hương](https://github.com/jasnamine).
 - [Nguyễn Tuấn Đăng](https://github.com/dangnt?tab=repositories).
