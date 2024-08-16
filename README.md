@@ -23,6 +23,10 @@
 <h4 align="center">Visitor's count :eyes:</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{NhatQuyenIT}/count.svg"/></p>
 
+### 🛠️Useful tools:
+- [Scoop](https://scoop.sh/#/)
+- [Chocolatey](https://chocolatey.org/install#psdsc)
+
 ### 🧑‍🤝‍🧑Followings:
 - [Đào Duy Tân](https://github.com/Coderfoolish).
 - [Nguyễn Hoàng Tuấn](https://github.com/tun784).
@@ -33,9 +37,14 @@
 - [Salogo](https://github.com/salogo?tab=repositories).
 - [SQCacademy](https://github.com/JavaWebOnline).
 - [Ngọc Quang](https://github.com/ngocquang95?tab=repositories).
-### 🛠️Useful tools:
-- [Scoop](https://scoop.sh/#/)
-- [Chocolatey](https://chocolatey.org/install#psdsc)
+- [Khoa Pham](https://github.com/tinvm/khoapham.vn)
+### AI tools:
+- [1](https://github.com/OpenDevin/OpenDevin)
+- [2]
+- [3]
+### Search Repositories:
+- [1](https://github.com/search?q=Qu%E1%BA%A3n+l%C3%BD+ph%C3%B2ng+tr%E1%BB%8D+language%3AC%23&type=repositories&l=C%23)
+- 
 ### 🌐Useful websites:
 - [Windows - Office](https://archive.org/details/@david_max915).
 - [Phong Vũ VN](https://phongvu.vn/)
