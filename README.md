@@ -38,13 +38,18 @@
 - [SQCacademy](https://github.com/JavaWebOnline).
 - [Ngọc Quang](https://github.com/ngocquang95?tab=repositories).
 - [Khoa Pham](https://github.com/tinvm/khoapham.vn)
+- [PhongMax](https://github.com/PhongMax/solve_triangle)
+- [CaoKhaHieu](https://github.com/CaoKhaHieu/client-cellphones?tab=readme-ov-file)
 ### AI tools:
 - [1](https://github.com/OpenDevin/OpenDevin)
 - [2]
 - [3]
 ### Search Repositories:
 - [1](https://github.com/search?q=Qu%E1%BA%A3n+l%C3%BD+ph%C3%B2ng+tr%E1%BB%8D+language%3AC%23&type=repositories&l=C%23)
-- 
+- [2](https://github.com/search?q=hack+robux+language%3APython&type=repositories&p=1&l=Python)
+- [3](https://github.com/search?q=Booking+Form&type=repositories)
+- [4](https://github.com/search?q=ph%C3%A2n%20t%C3%ADch%20thi%E1%BA%BFt%20k%E1%BA%BF%20h%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin&type=repositories)
+- [5](https://github.com/topics/idm-license)
 ### 🌐Useful websites:
 - [Windows - Office](https://archive.org/details/@david_max915).
 - [Phong Vũ VN](https://phongvu.vn/)
@@ -53,7 +58,7 @@
 - [Sài Gòn Laptop](https://saigonlaptop.vn/)
 - [Thế Giới Di Động](https://www.thegioididong.com/)
 - [Gitlab Vs Github](https://vietnix.vn/gitlab-la-gi/)
-### IDE hay:
+### IDE hay: DevDocs.io
 - [Google IDX](https://idx.dev/)
 - [Google Collab]
 - 
