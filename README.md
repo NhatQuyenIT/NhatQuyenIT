@@ -58,8 +58,8 @@
 - [Sài Gòn Laptop](https://saigonlaptop.vn/)
 - [Thế Giới Di Động](https://www.thegioididong.com/)
 - [Gitlab Vs Github](https://vietnix.vn/gitlab-la-gi/)
-- [Web3](https://aws.amazon.com/vi/what-is/web3/]
-- [Blockchain](https://aws.amazon.com/vi/what-is/blockchain/?aws-products-all.sort-by=item.additionalFields.productNameLowercase&aws-products-all.sort-order=asc]
+- [Web3](https://aws.amazon.com/vi/what-is/web3/)
+- [Blockchain](https://aws.amazon.com/vi/what-is/blockchain/?aws-products-all.sort-by=item.additionalFields.productNameLowercase&aws-products-all.sort-order=asc)
 ### IDE hay: DevDocs.io
 - [Google IDX](https://idx.dev/)
 - [Google Collab]
