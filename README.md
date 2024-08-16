@@ -42,8 +42,8 @@
 - [CaoKhaHieu](https://github.com/CaoKhaHieu/client-cellphones?tab=readme-ov-file)
 ### AI tools:
 - [1](https://github.com/OpenDevin/OpenDevin)
-- [2]
-- [3]
+- [2](https://github.com/VinAIResearch/PhoGPT)
+- [3]()
 ### Search Repositories:
 - [1](https://github.com/search?q=Qu%E1%BA%A3n+l%C3%BD+ph%C3%B2ng+tr%E1%BB%8D+language%3AC%23&type=repositories&l=C%23)
 - [2](https://github.com/search?q=hack+robux+language%3APython&type=repositories&p=1&l=Python)
@@ -62,6 +62,10 @@
 - [Google IDX](https://idx.dev/)
 - [Google Collab]
 - 
+### API tỉnh/thành Việt Nam:
+- [Demo01](https://github.com/hongquan/vn-open-api-provinces?tab=readme-ov-file)
+- [Demo02](https://github.com/thhxxx/demo_javascript/tree/main/filter%20district:district%20by%20province:city)
+- [Demo03](https://github.com/tranvanhieu01012002/callApiProvinces)
 <!-- <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>  <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>  <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>    <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> -->
 
 <!-- Update README.md -->
