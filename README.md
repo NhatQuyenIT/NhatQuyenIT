@@ -70,4 +70,7 @@
 - [Demo03](https://github.com/tranvanhieu01012002/callApiProvinces)
 <!-- <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>  <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>  <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>    <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> -->
 
+### Learning websites:
+-[Nguyễn Thanh Sang - Lập trình Java](https://sites.google.com/site/webhoctap2013/assignments/l%E1%BA%ADp-tr%C3%ACnh-java?authuser=0)
+-[Nguyễn Thanh Sang - KTPM](https://sites.google.com/site/webhoctap2013/assignments/ktpm?authuser=0)
 <!-- Update README.md -->
