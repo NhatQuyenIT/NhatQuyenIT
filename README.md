@@ -73,4 +73,15 @@
 ### Learning websites:
 -[Nguyễn Thanh Sang - Lập trình Java](https://sites.google.com/site/webhoctap2013/assignments/l%E1%BA%ADp-tr%C3%ACnh-java?authuser=0)
 -[Nguyễn Thanh Sang - KTPM](https://sites.google.com/site/webhoctap2013/assignments/ktpm?authuser=0)
+
+## Free course online:
+-[F8](https://fullstack.edu.vn/)
+-[Tutorialspoint](https://www.tutorialspoint.com/index.htm)
+-[W3School-JS](https://www.w3schools.com/js/js_whereto.asp)
+-[W3School-PHP](https://www.w3schools.com/php/php_syntax.asp)
+-[GeeksforGeeks](https://www.geeksforgeeks.org/javascript/?ref=lbp)
+-[HackerRank-300 bài code thiếu nhi](https://www.hackerrank.com/contests/300-bai-code-thieu-nhi/challenges)
+-[Leetcode](https://leetcode.com/studyplan/30-days-of-javascript/)
+-[CodeLearn](https://codelearn.io/learning/javascript-basics?tab=introduce)
+-[Udemy](https://www.udemy.com/courses/it-and-software/other-it-and-software/?price=price-free&sort=popularity)
 <!-- Update README.md -->
