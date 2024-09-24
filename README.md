@@ -43,7 +43,6 @@
 ### AI tools:
 - [1](https://github.com/OpenDevin/OpenDevin)
 - [2](https://github.com/VinAIResearch/PhoGPT)
-- [3]()
 ### Search Repositories:
 - [1](https://github.com/search?q=Qu%E1%BA%A3n+l%C3%BD+ph%C3%B2ng+tr%E1%BB%8D+language%3AC%23&type=repositories&l=C%23)
 - [2](https://github.com/search?q=hack+robux+language%3APython&type=repositories&p=1&l=Python)
@@ -84,4 +83,11 @@
 - [Leetcode](https://leetcode.com/studyplan/30-days-of-javascript/)
 - [CodeLearn](https://codelearn.io/learning/javascript-basics?tab=introduce)
 - [Udemy](https://www.udemy.com/courses/it-and-software/other-it-and-software/?price=price-free&sort=popularity)
+
+## Youtube Video (I'll be back to learn again):
+- [Video01](https://www.youtube.com/watch?v=ZBgTzx46B8s&list=PLBLPjjQlnVXXBheMQrkv3UROskC0K1ctW&ab_channel=VijayThapa)
+- [Video02](https://www.youtube.com/watch?v=JO8HcXuFYGU&list=PLBLPjjQlnVXXygeLVmd9mGNtgrHaBOFos&ab_channel=VijayThapa)
+- [Video03](https://www.youtube.com/watch?v=pvSueK4w_hE&list=PL9R2s5XMUJUNv7x_SRhLajAv3VaUhFFgJ&index=130&ab_channel=ITEducationNetwork)
+- [Video04](https://www.youtube.com/watch?v=G9lnP3ZTjkU&list=PLY3j36HMSHNWdM1oRHmFIOLxneqSZ6byi&index=104&ab_channel=QuickProgramming)
+- [Video05](https://www.youtube.com/watch?v=5owF1yTTuNg&list=PLY3j36HMSHNWaKUC73RJlwi6oU-WTpTPM&index=366&ab_channel=QuickProgramming)
 <!-- Update README.md -->
