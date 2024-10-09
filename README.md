@@ -49,6 +49,7 @@
 - [Repository3](https://github.com/search?q=Booking+Form&type=repositories)
 - [Repository4](https://github.com/search?q=ph%C3%A2n%20t%C3%ADch%20thi%E1%BA%BFt%20k%E1%BA%BF%20h%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin&type=repositories)
 - [Repository5](https://github.com/topics/idm-license)
+- [Algorithm & Data Structure] (https://github.com/trekhleb/javascript-algorithms)
 - [Filebased](https://github.com/tmarois/Filebase)
 - [Calendar in Java](https://github.com/zukahai/Calendar-Java?tab=readme-ov-file)
 - [Loading animations in website](https://whirl.netlify.app/) -> [Source code](https://github.com/jh3y/whirl/blob/dist/css/meetup.css)
