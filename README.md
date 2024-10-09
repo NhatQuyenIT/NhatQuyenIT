@@ -84,6 +84,12 @@
 - [Udemy](https://www.udemy.com/courses/it-and-software/other-it-and-software/?price=price-free&sort=popularity)
 - [Cybersoft](https://login.codezuni.com/dash-broad)
 
+## Free IT Books:
+- [1](https://books.goalkicker.com/)
+- [2](https://goalkicker.com/)
+- [3](https://securnerd.com/)
+- [4](https://t.me/securnerd)
+
 ## Youtube Video (I'll be back to learn again):
 - [Video01](https://www.youtube.com/watch?v=ZBgTzx46B8s&list=PLBLPjjQlnVXXBheMQrkv3UROskC0K1ctW&ab_channel=VijayThapa)
 - [Video02](https://www.youtube.com/watch?v=JO8HcXuFYGU&list=PLBLPjjQlnVXXygeLVmd9mGNtgrHaBOFos&ab_channel=VijayThapa)
