@@ -82,6 +82,7 @@
 - [Leetcode](https://leetcode.com/studyplan/30-days-of-javascript/)
 - [CodeLearn](https://codelearn.io/learning/javascript-basics?tab=introduce)
 - [Udemy](https://www.udemy.com/courses/it-and-software/other-it-and-software/?price=price-free&sort=popularity)
+- [Cybersoft](https://login.codezuni.com/dash-broad)
 
 ## Youtube Video (I'll be back to learn again):
 - [Video01](https://www.youtube.com/watch?v=ZBgTzx46B8s&list=PLBLPjjQlnVXXBheMQrkv3UROskC0K1ctW&ab_channel=VijayThapa)
