@@ -82,6 +82,7 @@
 - [W3School-JS](https://www.w3schools.com/js/js_whereto.asp)
 - [W3School-PHP](https://www.w3schools.com/php/php_syntax.asp)
 - [GeeksforGeeks](https://www.geeksforgeeks.org/javascript/?ref=lbp)
+- [JavatPoint](https://www.javatpoint.com/c-sharp-tutorial)
 - [HackerRank-300 bài code thiếu nhi](https://www.hackerrank.com/contests/300-bai-code-thieu-nhi/challenges)
 - [Leetcode](https://leetcode.com/studyplan/30-days-of-javascript/)
 - [CodeLearn](https://codelearn.io/learning/javascript-basics?tab=introduce)
