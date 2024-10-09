@@ -63,6 +63,7 @@
 - [Gitlab Vs Github](https://vietnix.vn/gitlab-la-gi/)
 - [Web3](https://aws.amazon.com/vi/what-is/web3/)
 - [Blockchain](https://aws.amazon.com/vi/what-is/blockchain/?aws-products-all.sort-by=item.additionalFields.productNameLowercase&aws-products-all.sort-order=asc)
+- [Coding cheatsheet](https://quickref.me/)
 ### IDE hay: DevDocs.io
 - [Google IDX](https://idx.dev/)
 - [Google Collab](https://colab.research.google.com/)
