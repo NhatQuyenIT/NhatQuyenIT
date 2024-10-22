@@ -26,6 +26,7 @@
 ### 🛠️Useful tools:
 - [Scoop](https://scoop.sh/#/)
 - [Chocolatey](https://chocolatey.org/install#psdsc)
+- [ZaloMove](https://github.com/NDWoodCompany/ZaloMove)
 
 ### 🧑‍🤝‍🧑Followings:
 - [Đào Duy Tân](https://github.com/Coderfoolish).
