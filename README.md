@@ -86,6 +86,8 @@
 ### Learning websites:
 - [Nguyễn Thanh Sang - Lập trình Java](https://sites.google.com/site/webhoctap2013/assignments/l%E1%BA%ADp-tr%C3%ACnh-java?authuser=0)
 - [Nguyễn Thanh Sang - KTPM](https://sites.google.com/site/webhoctap2013/assignments/ktpm?authuser=0)
+- [Weebly - CNPM] (https://cnpm.weebly.com/)
+- ... weebly và những website thầy/cô khác nữa
 
 ## Free course online (I'll be back to learn again):
 - [TITV](https://titv.vn/)
