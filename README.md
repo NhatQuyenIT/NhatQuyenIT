@@ -42,6 +42,7 @@
 - [Nguyễn Tuấn Đăng](https://github.com/dangnt?tab=repositories).
 - [Trương Phú Kiệt](https://github.com/Kietnehi?tab=repositories)
 - [Trần Văn Hoàng](https://github.com/HoangTran0410).
+- [Hoàng Gia Bảo](https://github.com/hgbaodev)
 - [Salogo](https://github.com/salogo?tab=repositories).
 - [SQCacademy](https://github.com/JavaWebOnline).
 - [Ngọc Quang](https://github.com/ngocquang95?tab=repositories).
