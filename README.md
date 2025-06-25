@@ -40,6 +40,7 @@
 - [Đỗ Bá Sơn](https://github.com/dobason).
 - [Nguyễn Lê Quỳnh Hương](https://github.com/jasnamine).
 - [Nguyễn Tuấn Đăng](https://github.com/dangnt?tab=repositories).
+- [Trương Phú Kiệt](https://github.com/Kietnehi?tab=repositories)
 - [Trần Văn Hoàng](https://github.com/HoangTran0410).
 - [Salogo](https://github.com/salogo?tab=repositories).
 - [SQCacademy](https://github.com/JavaWebOnline).
@@ -47,10 +48,14 @@
 - [Khoa Pham](https://github.com/tinvm/khoapham.vn)
 - [PhongMax](https://github.com/PhongMax/solve_triangle)
 - [CaoKhaHieu](https://github.com/CaoKhaHieu/client-cellphones?tab=readme-ov-file)
-### AI tools:
+- [PhamThe-KHDL](https://github.com/PhamThe-KHDL?tab=repositories)
+- [TienNHM](https://github.com/TienNHM?tab=repositories)
+- [vietnh1009](https://github.com/vietnh1009?tab=repositories)
+### AI opensource:
 - [1](https://github.com/OpenDevin/OpenDevin)
 - [2](https://github.com/VinAIResearch/PhoGPT)
 ### Search Repositories:
+- [Repository0](https://github.com/search?q=Quarantine+Camp+language%3APHP&type=repositories&l=PHP)
 - [Repository1](https://github.com/search?q=Qu%E1%BA%A3n+l%C3%BD+ph%C3%B2ng+tr%E1%BB%8D+language%3AC%23&type=repositories&l=C%23)
 - [Repository2](https://github.com/search?q=hack+robux+language%3APython&type=repositories&p=1&l=Python)
 - [Repository3](https://github.com/search?q=Booking+Form&type=repositories)
@@ -90,7 +95,7 @@
 - ... weebly và những website thầy/cô khác nữa
 
 ## Free course online (I'll be back to learn again):
-- [TITV](https://titv.vn/)
+<!-- - [TITV](https://titv.vn/)
 - [F8](https://fullstack.edu.vn/)
 - [Tutorialspoint](https://www.tutorialspoint.com/index.htm)
 - [W3School-JS](https://www.w3schools.com/js/js_whereto.asp)
@@ -103,18 +108,18 @@
 - [Udemy](https://www.udemy.com/courses/it-and-software/other-it-and-software/?price=price-free&sort=popularity)
 - [Cybersoft](https://login.codezuni.com/dash-broad) -> [Source code React](https://github.com/khaitruong1301)
 - [Cyberlearn](https://tailieuhay.download/khoa-hoc-cyber-learn.html) -> [Source 01] (https://www.terabox.app/vietnamese/sharing/link?surl=xhid3EgZsvBLiLSgd8dfSQ), [Source 02] (https://www.terabox.app/vietnamese/sharing/link?surl=hk6cBK3R8dmRgr5dW5rzLw)
-- [Cần xem xét](https://subscription.codegym.vn/?utm_source=FB%20organic&utm_medium=GenZ)
+- [Cần xem xét](https://subscription.codegym.vn/?utm_source=FB%20organic&utm_medium=GenZ) -->
 
 ## Free IT Books:
-- [1](https://books.goalkicker.com/)
+<!-- - [1](https://books.goalkicker.com/)
 - [2](https://goalkicker.com/)
 - [3](https://securnerd.com/)
-- [4](https://t.me/securnerd)
+- [4](https://t.me/securnerd) -->
 
 ## Youtube Video (I'll be back to learn again):
-- [Video01](https://www.youtube.com/watch?v=ZBgTzx46B8s&list=PLBLPjjQlnVXXBheMQrkv3UROskC0K1ctW&ab_channel=VijayThapa)
+<!-- - [Video01](https://www.youtube.com/watch?v=ZBgTzx46B8s&list=PLBLPjjQlnVXXBheMQrkv3UROskC0K1ctW&ab_channel=VijayThapa)
 - [Video02](https://www.youtube.com/watch?v=JO8HcXuFYGU&list=PLBLPjjQlnVXXygeLVmd9mGNtgrHaBOFos&ab_channel=VijayThapa)
 - [Video03](https://www.youtube.com/watch?v=pvSueK4w_hE&list=PL9R2s5XMUJUNv7x_SRhLajAv3VaUhFFgJ&index=130&ab_channel=ITEducationNetwork)
 - [Video04](https://www.youtube.com/watch?v=G9lnP3ZTjkU&list=PLY3j36HMSHNWdM1oRHmFIOLxneqSZ6byi&index=104&ab_channel=QuickProgramming)
-- [Video05](https://www.youtube.com/watch?v=5owF1yTTuNg&list=PLY3j36HMSHNWaKUC73RJlwi6oU-WTpTPM&index=366&ab_channel=QuickProgramming)
+- [Video05](https://www.youtube.com/watch?v=5owF1yTTuNg&list=PLY3j36HMSHNWaKUC73RJlwi6oU-WTpTPM&index=366&ab_channel=QuickProgramming) -->
 <!-- Update README.md -->
