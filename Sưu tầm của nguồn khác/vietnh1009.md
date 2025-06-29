@@ -3,7 +3,7 @@ My name is Viet Nguyen. I am a Senior AI engineer at Sporttotal. I am interested
 ## 📫 How to reach me: 
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/vietnguyen-tum/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/vietnh1009/) <a href="https://www.youtube.com/channel/UC66_4puPl1OFS3YAeZ7tRdw">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/YouTube_Logo_2017.svg/768px-YouTube_Logo_2017.svg.png" alt="Youtube" width="120"/><br>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/YouTube_Logo_2017.svg/768px-YouTube_Logo_2017.svg.png" alt="Youtube" width="20"/><br>
   Youtube
 </a>
 
