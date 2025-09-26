@@ -54,6 +54,7 @@
 - [TienNHM](https://github.com/TienNHM?tab=repositories)
 - [vietnh1009](https://github.com/vietnh1009?tab=repositories)
 - [Đinh Tiến Long](https://github.com/yansuogaming?tab=repositories)
+- [Tuyệt đỉnh](https://github.com/kuzma02)
 ### AI opensource:
 - [1](https://github.com/OpenDevin/OpenDevin)
 - [2](https://github.com/VinAIResearch/PhoGPT)
